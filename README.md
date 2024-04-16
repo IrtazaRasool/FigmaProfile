@@ -2,7 +2,9 @@
 
 ## 1. Autonomous Car UI/UX:
 ### Main Page:
-![Screenshot 2024-04-17 005008](https://github.com/IrtazaRasool/FigmaProfile/assets/141081749/32efc318-8808-4a74-9b32-4bfde31310e8)
+![Screenshot 2024-04-17 005008](https://github.com/IrtazaRasool/FigmaProfile/assets/141081749/32efc318-8808-4a74-9b32-4bfde31310e8) ![image](https://github.com/IrtazaRasool/FigmaProfile/assets/141081749/bbce4540-8774-4b51-b396-99fa7469f55d)
+
+
 
 
 
